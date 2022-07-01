@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-23T20:45:50 ART" name="Carina Demo Tests - API Sample" finished-at="2022-06-23T20:45:56 ART" duration-ms="6288">
+    <groups>
+    </groups>
+    <test started-at="2022-06-23T20:45:50 ART" name="User API tests" finished-at="2022-06-23T20:45:56 ART" duration-ms="6288">
+      <class name="demoblazegroup.carina.demo.APISampleTest">
+        <test-method signature="testCreateUser()[pri:0, instance:demoblazegroup.carina.demo.APISampleTest@1932ad2c]" started-at="2022-06-23T20:45:50 ART" name="testCreateUser" finished-at="2022-06-23T20:45:56 ART" duration-ms="6260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+        <test-method signature="testGetUsers()[pri:0, instance:demoblazegroup.carina.demo.APISampleTest@1932ad2c]" started-at="2022-06-23T20:45:50 ART" name="testGetUsers" finished-at="2022-06-23T20:45:52 ART" duration-ms="1493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUsers -->
+        <test-method signature="testCreateUserMissingSomeFields()[pri:0, instance:demoblazegroup.carina.demo.APISampleTest@1932ad2c]" started-at="2022-06-23T20:45:50 ART" name="testCreateUserMissingSomeFields" finished-at="2022-06-23T20:45:51 ART" duration-ms="1357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUserMissingSomeFields -->
+        <test-method signature="testDeleteUsers()[pri:0, instance:demoblazegroup.carina.demo.APISampleTest@1932ad2c]" started-at="2022-06-23T20:45:50 ART" name="testDeleteUsers" finished-at="2022-06-23T20:45:51 ART" duration-ms="1356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUsers -->
+      </class> <!-- demoblazegroup.carina.demo.APISampleTest -->
+    </test> <!-- User API tests -->
+  </suite> <!-- Carina Demo Tests - API Sample -->
+</testng-results>

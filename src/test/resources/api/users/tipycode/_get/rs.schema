@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Post",
+  "type": "object",
+  "properties": {
+    "userId": {
+      "type": "integer",
+      "description": "The poster's id."
+    },
+    "id": {
+      "type": "integer",
+      "description": "The post's id."
+    },
+    "title": {
+      "type": "string",
+      "description": "Title of the post."
+    },
+    "body": {
+      "type": "string",
+      "description": "Post itself."
+        }
+  }
+}
